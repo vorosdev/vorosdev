@@ -1,4 +1,10 @@
-<h1 align="center">Hello!, I'm Vorosdev 👋</h1>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&center=true&multiline=true&repeat=false&width=435&lines=Hello!%2C+I'm+Vorosdev" /></a>
+</p>
+
 
 <h2 align="center"><img src="https://media.tenor.com/mlaggCNWU78AAAAd/oshi-no-ko-oshi.gif" width="500"></h2>
 
