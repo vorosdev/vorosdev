@@ -11,7 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&repeat=false&width=435&lines=About+me)](https://git.io/typing-svg)
 
 <h3 align="left">- I'm a sysadmin</h3>
-<h3 align="left">- Enthusiast of cybersecurity, GNU/Linux, and free software 🐧❤️</p>
+<h3 align="left">- Enthusiast of cybersecurity, GNU/Linux, and FOSS 🐧❤️</p>
 
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&repeat=false&width=435&lines=Interests)](https://git.io/typing-svg)
