@@ -2,46 +2,44 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&center=true&multiline=true&repeat=false&width=435&lines=Hello!%2C+I'm+Vor" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=&size=25&pause=1000&color=F38BA8&repeat=false&width=435&lines=Hello!%2C+I+am+Vor" /></a>
 </p>
-
 
 <!-- <h2 align="center"><img src="https://media.tenor.com/mlaggCNWU78AAAAd/oshi-no-ko-oshi.gif" width="500"></h2> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&repeat=false&width=435&lines=About+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=25&pause=1000&color=A6E3A1&repeat=false&width=435&lines=About+me+)](https://git.io/typing-svg)
 
-<h3 align="left">- I'm a sysadmin</h3>
-<h3 align="left">- Enthusiast of cybersecurity, GNU/Linux, and FOSS 🐧❤️</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=22&pause=1000&color=89DCEB&repeat=false&width=435&lines=-+I'm+a+sysadmin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=22&pause=1000&color=89DCEB&multiline=true&repeat=false&width=1000&lines=-+Enthusiast+of+cybersecurity%2C+GNU%2FLinux%2C+and+FOSS+%F0%9F%90%A7%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
----
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&repeat=false&width=435&lines=Interests)](https://git.io/typing-svg)
 
-<h3 align="left">- Red Teaming</p>
-<h3 align="left">- System administration</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=A6E3A1&repeat=false&width=435&lines=Interests)](https://git.io/typing-svg)
 
----
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=89DCEB&repeat=false&width=600&lines=-+Red+Teaming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=89DCEB&repeat=false&width=435&lines=-+System+administration)](https://git.io/typing-svg)
 
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)]()
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
-[![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)]()
-[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-</br>
-[![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)]()
-[![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-[![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)]()
-[![Qemu](https://img.shields.io/badge/Qemu-FF6600?style=for-the-badge&logo=Qemu&logoColor=white)]()
-[![LibVirt](https://img.shields.io/badge/LibVirt-367970?style=for-the-badge&logo=LibVirt&logoColor=white)]()
-[![Kvm](https://img.shields.io/badge/Kvm-231f20?style=for-the-badge&logo=Kvm&logoColor=white)]()
-</br>
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-![Slackware](https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)
-![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white)
-![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2&pause=1000&color=B4BEFE&center=false&vCenter=false&repeat=false&width=1000&lines=--------------------------------------------------)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=f5c2e7&repeat=false&width=435&lines=Technologies)](https://git.io/typing-svg)
+
+<!-- Langs -->
+![Static Badge](https://img.shields.io/badge/Bash-a6e3a1?style=for-the-badge&logo=gnu-bash&labelColor=313244)
+![Static Badge](https://img.shields.io/badge/Python-f9e2af?style=for-the-badge&logo=python&labelColor=313244)
+![Static Badge](https://img.shields.io/badge/Rust-fab387?style=for-the-badge&logo=rust&labelColor=313244)
+![Static Badge](https://img.shields.io/badge/Nix-74c7ec?style=for-the-badge&logo=nixos&labelColor=313244)
+![Static Badge](https://img.shields.io/badge/SQL-94e2d5?style=for-the-badge&logo=mysql&labelColor=313244)
+</br> <!-- tools -->
+![Static Badge](https://img.shields.io/badge/NeoVim-a6e3a1?style=for-the-badge&logo=neovim&labelColor=313244)
+![Static Badge](https://img.shields.io/badge/Git-fab387?style=for-the-badge&logo=git&labelColor=313244)
+![Static Badge](https://img.shields.io/badge/VMware-89dceb?style=for-the-badge&logo=vmware&labelColor=313244)
+![Static Badge](https://img.shields.io/badge/Qemu-fab387?style=for-the-badge&logo=qemu&labelColor=313244)
+![Static Badge](https://img.shields.io/badge/LibVirt-81c8be?style=for-the-badge&logo=libvirt&labelColor=313244)
+![Static Badge](https://img.shields.io/badge/KVM-cba6f7?style=for-the-badge&logo=kvm&labelColor=313244)
+</br> <!-- systems -->
+![Static Badge](https://img.shields.io/badge/Slackware-b4befe?style=for-the-badge&logo=slackware&labelColor=313244)
+![Static Badge](https://img.shields.io/badge/Debian-f38ba8?style=for-the-badge&logo=debian&labelColor=313244)
+![Static Badge](https://img.shields.io/badge/RHEL-e78284?style=for-the-badge&logo=redhat&labelColor=313244)
+![Static Badge](https://img.shields.io/badge/OpenSUSE-a6d189?style=for-the-badge&logo=OpenSuse&labelColor=313244)
+![Static Badge](https://img.shields.io/badge/NixOS-8caaee?style=for-the-badge&logo=nixos&labelColor=313244)
+
