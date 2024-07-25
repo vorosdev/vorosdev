@@ -27,7 +27,7 @@
 ![Static Badge](https://img.shields.io/badge/Bash-a6e3a1?style=for-the-badge&logo=gnu-bash&labelColor=313244)
 ![Static Badge](https://img.shields.io/badge/Python-f9e2af?style=for-the-badge&logo=python&labelColor=313244)
 ![Static Badge](https://img.shields.io/badge/Rust-fab387?style=for-the-badge&logo=rust&labelColor=313244)
-![Static Badge](https://img.shields.io/badge/Nix-74c7ec?style=for-the-badge&logo=nixos&labelColor=313244)
+![Static Badge](https://img.shields.io/badge/Nix-7dc4e4?style=for-the-badge&logo=nixos&labelColor=313244)
 ![Static Badge](https://img.shields.io/badge/SQL-94e2d5?style=for-the-badge&logo=mysql&labelColor=313244)
 </br> <!-- tools -->
 ![Static Badge](https://img.shields.io/badge/NeoVim-a6e3a1?style=for-the-badge&logo=neovim&labelColor=313244)
@@ -38,8 +38,8 @@
 ![Static Badge](https://img.shields.io/badge/KVM-cba6f7?style=for-the-badge&logo=kvm&labelColor=313244)
 </br> <!-- systems -->
 ![Static Badge](https://img.shields.io/badge/Slackware-b4befe?style=for-the-badge&logo=slackware&labelColor=313244)
-![Static Badge](https://img.shields.io/badge/Debian-f38ba8?style=for-the-badge&logo=debian&labelColor=313244)
-![Static Badge](https://img.shields.io/badge/RHEL-e78284?style=for-the-badge&logo=redhat&labelColor=313244)
+![Static Badge](https://img.shields.io/badge/Debian-f2cdcd?style=for-the-badge&logo=debian&labelColor=313244)
+![Static Badge](https://img.shields.io/badge/RHEL-f38ba8?style=for-the-badge&logo=redhat&labelColor=313244)
 ![Static Badge](https://img.shields.io/badge/OpenSUSE-a6d189?style=for-the-badge&logo=OpenSuse&labelColor=313244)
-![Static Badge](https://img.shields.io/badge/NixOS-8caaee?style=for-the-badge&logo=nixos&labelColor=313244)
+![Static Badge](https://img.shields.io/badge/NixOS-7dc4e4?style=for-the-badge&logo=nixos&labelColor=313244)
 
