@@ -24,6 +24,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=f5c2e7&repeat=false&width=435&lines=Technologies)](https://git.io/typing-svg)
 
 <!-- code -->
+![Static Badge](https://img.shields.io/badge/Go-7dc4e4?style=for-the-badge&logo=go&labelColor=313244)
 ![Static Badge](https://img.shields.io/badge/Bash-a6e3a1?style=for-the-badge&logo=gnu-bash&labelColor=313244)
 ![Static Badge](https://img.shields.io/badge/Python-f9e2af?style=for-the-badge&logo=python&labelColor=313244)
 ![Static Badge](https://img.shields.io/badge/Rust-fab387?style=for-the-badge&logo=rust&labelColor=313244)
