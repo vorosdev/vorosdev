@@ -7,8 +7,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=22&pause=1000&color=A6E3A1&repeat=false&width=435&lines=About+me+)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=20&pause=1000&color=cdd6f4&repeat=false&width=1000&lines=-+I'm+a+sysadmin)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=20&pause=1000&color=cdd6f4&multiline=true&repeat=false&width=1000&lines=-+Enthusiast+of+cybersecurity%2C+GNU%2FLinux%2C+and+FOSS+%F0%9F%90%A7%E2%9D%A4%EF%B8%8F)
+![Typing SVG](https://readme-typing-svg.demolab.com?size=20&pause=1000&color=cdd6f4&repeat=false&width=660&lines=-+I'm+a+sysadmin)
+![Typing SVG](https://readme-typing-svg.demolab.com?size=20&pause=1000&color=cdd6f4&repeat=false&width=660&lines=-+Enthusiast+of+cybersecurity%2C+GNU%2FLinux+and+FOSS+%F0%9F%90%A7%E2%9D%A4%EF%B8%8F)
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2&pause=1000&color=B4BEFE&center=false&vCenter=false&repeat=false&width=1000&lines=--------------------------------------------------)
