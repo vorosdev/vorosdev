@@ -1,5 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=vorosdev&color=1e1e2e)
-
 <p align="center">
   <a>
     <img src="https://readme-typing-svg.demolab.com?font=&size=20&pause=1000&color=F38BA8&repeat=false&width=435&lines=Hey!+I+am+Vor"/></a>
